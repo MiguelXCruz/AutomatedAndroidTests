@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.mxc.automatedtest.FirstTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.016 s <<< FAILURE! - in com.mxc.automatedtest.FirstTest
+test{int}  Time elapsed: 0.016 s  <<< ERROR!
+java.io.FileNotFoundException: src\test\resources\com\browserstack\run_first_test\first.conf.json (O sistema não pode encontrar o caminho especificado)
+

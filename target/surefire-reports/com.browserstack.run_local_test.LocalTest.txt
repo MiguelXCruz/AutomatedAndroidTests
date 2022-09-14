@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.browserstack.run_local_test.LocalTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.403 s <<< FAILURE! - in com.browserstack.run_local_test.LocalTest
+test{int}[1]  Time elapsed: 0.375 s  <<< ERROR!
+com.browserstack.local.LocalException: java.io.IOException: Cannot run program "C:\Users\CAF/.browserstack/BrowserStackLocal.exe": CreateProcess error=193, %1 não é um aplicativo Win32 válido
+
